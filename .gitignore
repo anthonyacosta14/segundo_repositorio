@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+prueba_ignore/**
+*.fichero
+
+docker login iesquevedo.es 
 # C extensions
 *.so
 
