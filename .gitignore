@@ -6,7 +6,7 @@ __pycache__/
 prueba_ignore/**
 *.fichero
 
-
+docker login iesquevedo.es 
 # C extensions
 *.so
 
